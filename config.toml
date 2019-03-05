@@ -1,7 +1,7 @@
 baseURL = "/"
 languageCode = "en"
 defaultContentLanguage = "en"
-title = "KeepIt"
+title = "J. Antonio Guzmán Q."
 theme = "KeepIt"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
@@ -28,22 +28,32 @@ googleAnalytics = ""
     name = "Blog"
     url = "/posts/"
     weight = 1
-
+    
   [[menu.main]]
-    name = "Categories"
+    name = "Research and Projects"
     url = "/categories/"
+    weight = 2
+    
+  [[menu.main]]
+    name = "Publications"
+    url = "/publications"
     weight = 3
+    
+  [[menu.main]]
+    name = "Software development"
+    url = "/code"
+    weight = 4
 
   [[menu.main]]
     name = "About"
     url = "/about"
-    weight = 4
+    weight = 5
 
 [params]
-    since = 2012
-    author = "Fastbyte01"               # Author's name
+    since = 2018
+    author = "J. Antonio Guzmán Q."               # Author's name
     avatar = "/images/me/avatar.jpeg"           # Author's avatar
-    subtitle = "A Hugo theme"       # Subtitle
+    subtitle = "J. Antonio Guzmán Q."       # Subtitle
     cdn_url = ""           # Base CDN URL
     home_mode = "" # post or other
 
@@ -61,27 +71,19 @@ googleAnalytics = ""
     Instagram = "xxxx"
     Email   = "xxxx"
     Facebook = "xxxx"
-    Telegram = "xxxx"
-    Medium = "xxxx"
-    Gitlab = "xxxx"
     Youtube = "xxxx"
-    Tumblr ="xxxx"
-    Quora = "xxxx"
-    Keybase = "xxxx"
-    Pinterest = "xxxx"
-    Reddit = "xxxx"
-    Codepen = "xxxx"
-    Bitbucket = "xxxx"
     Stackoverflow = "xxxxx"
+    google-scholar = "xxxx"
+    
 
 # Used only for Seo schema 
 copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
 
 [author]
-  name = "Fastbyte01"
+  name = "J. Antonio Guzmán Q."
 
   [params.publisher]
-    name = "Fastbyte01"
+    name = "J. Antonio Guzmán Q."
 
     [params.publisher.logo]
       url = "logo.png"
