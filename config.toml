@@ -52,7 +52,7 @@ googleAnalytics = ""
 [params]
     since = 2018
     author = "J. Antonio Guzmán Q."               # Author's name
-    avatar = "/images/me/avatar.jpeg"           # Author's avatar
+    avatar = "/images/me/myguzman3.jpg"           # Author's avatar
     subtitle = "J. Antonio Guzmán Q."       # Subtitle
     cdn_url = ""           # Base CDN URL
     home_mode = "" # post or other
@@ -60,20 +60,19 @@ googleAnalytics = ""
     google_verification = ""
 
     description = "" # site description
-    keywords = "" # site keywords
+    keywords = "Ph.D Candidate and Vanier Scholar at the University of Alberta" # site keywords
 
     license= 'Released under <a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
 
 [params.social]
-    GitHub = "xxxx"
-    Linkedin = "xxxx"
-    Twitter = "xxxx"
-    Instagram = "xxxx"
-    Email   = "xxxx"
-    Facebook = "xxxx"
-    Youtube = "xxxx"
-    Stackoverflow = "xxxxx"
-    google-scholar = "xxxx"
+    GitHub = "Antguz"
+    Linkedin = "jantonioguzman"
+    Twitter = "AntonioGuzman06"
+    Stackoverflow = "3483096"
+    ##gscholar = "Ev3ofxwAAAAJ"
+    google-scholar = "Ev3ofxwAAAAJ"
+    Email = "antguz06@gmail.com"
+    Researchgate = "J_Antonio_Guzman_Q"
     
 
 # Used only for Seo schema 
