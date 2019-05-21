@@ -1,7 +1,7 @@
 ---
 author:
   name: "Michael Henderson"
-date: 2014-09-28
+date: 2019-01-01
 linktitle: Creating a New Theme
 type:
 - post 
@@ -62,7 +62,7 @@ You have two ways to create a skin. The simplest way is to create it in the ```l
 
 Your second choice is to create it in a sub-directory of the ```themes/``` directory. If you do, then you must always tell Hugo where to search for the skin. It’s extra work, though, so why bother with it?
 
-The difference between creating a skin in ```layouts/``` and creating it in ```themes/``` is very subtle. A skin in ```layouts/``` can’t be customized without updating the templates and static files that it is built from. A skin created in ```themes/```, on the other hand, can be and that makes it easier for other people to use it.
+Thez difference between creating a skin in ```layouts/``` and creating it in ```themes/``` is very subtle. A skin in ```layouts/``` can’t be customized without updating the templates and static files that it is built from. A skin created in ```themes/```, on the other hand, can be and that makes it easier for other people to use it.
 
 The rest of this tutorial will call a skin created in the ```themes/``` directory a theme.
 

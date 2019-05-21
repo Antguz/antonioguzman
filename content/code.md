@@ -1,24 +1,12 @@
 +++
-title = "About"
+title = "Software develpment"
 +++
 
-I am Ph.D. candidate and Vanier Scholar at the Earth and Atmospheric Sciences Department, University of Alberta. My current research is associated to the develop of methods that help to detect and understand the role of lianas in tropical ecosystems.
 
-I am passionate about data, especially the type of data that involve eco-physiology and remote sensing information. Throughout my interdisciplinary career I have been working in fields such as geographic information systems, remote sensing, ecology, physiology, and modelling.
+# rTLS
 
-Biologist by training, data lover by vocation!
+[rTLS](https://github.com/Antguz/rTLS) is an R package that compiles a series of tools to process and calculate metrics on point clouds derived from terrestrial LiDAR (Light Detection and Ranging) data. This started as a personal hobby, but due to its current use, we decided to formalize their routines.
 
-J. Antonio Guzmán Q.
+This package is carried out also by [Dr. Arturo Sanchez](https://www.ualberta.ca/faculties/centresinstitutes/centre-for-earth-observation-sciences/participants/arturo) (University of Alberta) and [Ronny Hernandez](http://ronnyhdez.rbind.io/). The current development of rTLS is focussed on four major processes applied on point clouds: i) filtering, ii) voxelization and their visualization, iii) point neighborhood features, and iv) optimal voxel or sphere size.
 
-Ph.D. candidate – Vanier Scholar
-
-Earth and Atmospherics Sciences Department
-
-University of Alberta
-
-Edmonton, Canada
-
-
-
-[ORCID](https://orcid.org/0000-0002-0721-148X) / [Google Scholar](https://scholar.google.es/citations?user=Ev3ofxwAAAAJ&hl=es) / [ResearchGate](https://www.researchgate.net/profile/J_Antonio_Guzman_Q)
-
+Take a look to its current state at [github](https://github.com/Antguz/rTLS) as well as to a [poster](https://www.researchgate.net/publication/333204427_Relationship_between_tree_architectural_metrics_and_its_fractal_dimension_using_Terrestrial_Laser_Scanning) presented at the TLS in Forest Ecology conference.
