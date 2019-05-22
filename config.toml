@@ -83,7 +83,7 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
   [params.publisher]
     name = "J. Antonio Guzmán Q."
 
-    [params.publisher.logo]
+  [params.publisher.logo]
       url = "logo.png"
       width = 127
       height = 40

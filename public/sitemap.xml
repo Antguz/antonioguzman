@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     <url>
-      <loc>/2019/creating-a-new-theme/</loc>
+      <loc>/2019/post/</loc>
       
       <lastmod>2019-01-01T00:00:00+00:00</lastmod>
       
@@ -70,6 +70,18 @@
   
     <url>
       <loc>/publications/</loc>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>/categories/</loc>
       
       
       <changefreq>monthly</changefreq>
