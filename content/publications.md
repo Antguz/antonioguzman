@@ -2,6 +2,10 @@
 title = "Publications"
 +++
 
+**Guzmán, JA.**, Sánchez-Azofeifa, GA., Espírito-Santo, MM. (2019) MODIS and PROBA-V NDVI products differ when compared with observations from phenological towers at four tropical dry forests in the Americas. Remote Sensing, 11(19), 2316. [Link](https://doi.org/10.3390/rs11192316)
+
+<br/> 
+
 **Guzmán, JA.**, Rivard, B., Sánchez-Azofeifa, GA. (2018) Discrimination of liana and tree leaves from a Neotropical Dry Forest using visible-near infrared and longwave infrared reflectance spectra. Remote Sensing of the Environment. 219: 135-144. [Link](https://www.sciencedirect.com/science/article/abs/pii/S0034425718304620)
 
 <br/> 
