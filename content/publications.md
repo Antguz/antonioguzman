@@ -59,6 +59,6 @@ Sánchez-Azofeifa, GA., **Guzmán, JA.**, Vega-Araya, M., Campos-Vargas, C., Dur
 
 <br/>
 
-For more details take a look to my [CV](CV_Guzman.pdf).
+For more details take a look to my [CV](https://drive.google.com/open?id=1rSFXLf9uQMszvfzIIGrcJkE48Qxhu0LC).
 
 
