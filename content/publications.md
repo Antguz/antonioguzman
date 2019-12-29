@@ -2,6 +2,11 @@
 title = "Publications"
 +++
 
+**Guzmán, JA.**, Laakso, K., López-Rodríguez, J., Rivard, B., Sánchez-Azofeifa, GA. (2020) Using visible-near-infrared spectroscopy to classify lichens at a Neotropical Dry Forest. Ecological Indicators, 111: 105999.
+[Link](https://www.sciencedirect.com/science/article/pii/S1470160X1930994X)
+
+<br/>
+
 **Guzmán, JA.**, Sánchez-Azofeifa, GA., Espírito-Santo, MM. (2019) MODIS and PROBA-V NDVI products differ when compared with observations from phenological towers at four tropical dry forests in the Americas. Remote Sensing, 11(19), 2316. [Link](https://doi.org/10.3390/rs11192316)
 
 <br/> 
@@ -54,6 +59,6 @@ Sánchez-Azofeifa, GA., **Guzmán, JA.**, Vega-Araya, M., Campos-Vargas, C., Dur
 
 <br/>
 
-For conference presentations take a look to my CV.
+For more details take a look to my [CV](https://github.com/Antguz/antonioguzman/blob/master/content/posts/CV_Guzman.pdf).
 
 
