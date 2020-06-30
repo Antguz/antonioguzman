@@ -2,6 +2,16 @@
 title = "Publications"
 +++
 
+**Guzmán, JA.**, Sharp, I., Alencastro, F., Sánchez‐Azofeifa, G.A. (2020), On the relationship of fractal geometry and tree‐stand metrics on point clouds derived from Terrestrial Laser Scanning. Methods in Ecology and Evolution. Accepted Manuscript. 
+[Link](https://doi.org/10.1111/2041-210X.13437)
+
+<br/>
+
+Yuan, Xu., Laakso, K., Davis, CD., **Guzmán, JA.**, Meng, Q., Sánchez-Azofeifa, GA. (2020). Monitoring the Water Stress of an Indoor Living Wall System Using the "Triangle Method". Sensors, 20(11), 3261.
+[Link](https://doi.org/10.3390/s20113261)
+
+<br/>
+
 **Guzmán, JA.**, Laakso, K., López-Rodríguez, J., Rivard, B., Sánchez-Azofeifa, GA. (2020) Using visible-near-infrared spectroscopy to classify lichens at a Neotropical Dry Forest. Ecological Indicators, 111: 105999.
 [Link](https://www.sciencedirect.com/science/article/pii/S1470160X1930994X)
 
