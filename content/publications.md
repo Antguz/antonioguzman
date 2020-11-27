@@ -2,8 +2,8 @@
 title = "Publications"
 +++
 
-**Guzmán, JA.**, Sharp, I., Alencastro, F., Sánchez‐Azofeifa, G.A. (2020), On the relationship of fractal geometry and tree‐stand metrics on point clouds derived from Terrestrial Laser Scanning. Methods in Ecology and Evolution. Accepted Manuscript. 
-[Link](https://doi.org/10.1111/2041-210X.13437)
+**Guzmán, JA.**, Sharp, I., Alencastro, F., Sánchez‐Azofeifa, G.A. (2020), On the relationship of fractal geometry and tree‐stand metrics on point clouds derived from Terrestrial Laser Scanning. Methods in Ecology and Evolution. 11: 1309-1318. 
+[PDF](https://drive.google.com/file/d/1rZyLJ-4bgqU0du_ViX2RkdKcATjnKcbx/view?usp=sharing)
 
 <br/>
 
@@ -13,7 +13,7 @@ Yuan, Xu., Laakso, K., Davis, CD., **Guzmán, JA.**, Meng, Q., Sánchez-Azofeifa
 <br/>
 
 **Guzmán, JA.**, Laakso, K., López-Rodríguez, J., Rivard, B., Sánchez-Azofeifa, GA. (2020) Using visible-near-infrared spectroscopy to classify lichens at a Neotropical Dry Forest. Ecological Indicators, 111: 105999.
-[Link](https://www.sciencedirect.com/science/article/pii/S1470160X1930994X)
+[PDF](https://drive.google.com/file/d/1MeeG4oPeboNewUTbbG4x-1H9hCADQMxi/view?usp=sharing)
 
 <br/>
 
@@ -21,7 +21,7 @@ Yuan, Xu., Laakso, K., Davis, CD., **Guzmán, JA.**, Meng, Q., Sánchez-Azofeifa
 
 <br/> 
 
-**Guzmán, JA.**, Rivard, B., Sánchez-Azofeifa, GA. (2018) Discrimination of liana and tree leaves from a Neotropical Dry Forest using visible-near infrared and longwave infrared reflectance spectra. Remote Sensing of the Environment. 219: 135-144. [Link](https://www.sciencedirect.com/science/article/abs/pii/S0034425718304620)
+**Guzmán, JA.**, Rivard, B., Sánchez-Azofeifa, GA. (2018) Discrimination of liana and tree leaves from a Neotropical Dry Forest using visible-near infrared and longwave infrared reflectance spectra. Remote Sensing of the Environment. 219: 135-144. [PDF](https://drive.google.com/file/d/1U0TuoWtruqugQrmgbGE6RNSwgKMOhlfY/view?usp=sharing)
 
 <br/> 
 
@@ -33,7 +33,7 @@ Rankine, C., Sánchez-Azofeifa, GA., **Guzmán, JA.**, Espirito Santo, M., Sharp
 
 <br/>
 
-Sánchez-Azofeifa, GA, **Guzmán, JA.**, Campos, CA, Castro, S., Garcia-Millan, V., Nightingale, J, Rankine, C. (2017) Twenty-first century remote sensing technologies are revolutionizing the study of tropical forests. Biotropica. 49(5): 604-619. [PDF](https://onlinelibrary.wiley.com/doi/full/10.1111/btp.12454)
+Sánchez-Azofeifa, GA, **Guzmán, JA.**, Campos, CA, Castro, S., Garcia-Millan, V., Nightingale, J, Rankine, C. (2017) Twenty-first century remote sensing technologies are revolutionizing the study of tropical forests. Biotropica. 49(5): 604-619. [PDF](https://drive.google.com/file/d/1oz9XHngmRcJg7Nfn-QPak5NJr-Mgf3Ri/view?usp=sharing)
 
 <br/>
 
@@ -57,7 +57,7 @@ Sánchez-Azofeifa, GA., **Guzmán, JA.**, Vega-Araya, M., Campos-Vargas, C., Dur
 
 <br/>
 
-**Guzmán, JA.** (2015) Ecological advantage of the leaf heteroblasty traits in Costus pulverulentus (Costaceae). Botany. 93(3): 151-158. [Link](https://www.nrcresearchpress.com/doi/abs/10.1139/cjb-2014-0157#.XJBxpShKhPY)
+**Guzmán, JA.** (2015) Ecological advantage of the leaf heteroblasty traits in Costus pulverulentus (Costaceae). Botany. 93(3): 151-158. [PDF](https://drive.google.com/file/d/17MHaqU5pIoz4tGtxTQoQ6UoKBQp3v8iF/view?usp=sharing)
 
 <br/>
 
@@ -69,6 +69,6 @@ Sánchez-Azofeifa, GA., **Guzmán, JA.**, Vega-Araya, M., Campos-Vargas, C., Dur
 
 <br/>
 
-For more details take a look to my [CV](https://drive.google.com/open?id=1rSFXLf9uQMszvfzIIGrcJkE48Qxhu0LC).
+For more details take a look to my [CV](https://drive.google.com/file/d/1tSJq6zTUPEWu3UmKa485smK0mA4iOYHE/view?usp=sharing).
 
 
