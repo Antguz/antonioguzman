@@ -8,7 +8,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 paginate = 12
 enableEmoji = true
 enableRobotsTXT = true
-googleAnalytics = ""
+googleAnalytics = "UA-167538017-1"
 
 [sitemap]
   changefreq = "monthly"
@@ -60,7 +60,7 @@ googleAnalytics = ""
     google_verification = ""
 
     description = "" # site description
-    keywords = "Ph.D Candidate and Vanier Scholar at the University of Alberta" # site keywords
+    keywords = "Antonio Guzmán" # site keywords
 
     license= 'Released under <a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
 
