@@ -2,6 +2,11 @@
 title = "Publications"
 +++
 
+**Guzmán, JA.**, Sánchez‐Azofeifa, G.A. (2021), Prediction of leaf traits of lianas and trees via the integration of wavelet spectra in the visible-near infrared and thermal infrared domains. Remote Sensing of the Environment. 259: 112406. 
+[PDF](https://drive.google.com/file/d/1Km6Tgsx5aXHNymQnaUE1B9n7Qx4pnu6t/view?usp=sharing)
+
+<br/>
+
 **Guzmán, JA.**, Sharp, I., Alencastro, F., Sánchez‐Azofeifa, G.A. (2020), On the relationship of fractal geometry and tree‐stand metrics on point clouds derived from Terrestrial Laser Scanning. Methods in Ecology and Evolution. 11: 1309-1318. 
 [PDF](https://drive.google.com/file/d/1rZyLJ-4bgqU0du_ViX2RkdKcATjnKcbx/view?usp=sharing)
 

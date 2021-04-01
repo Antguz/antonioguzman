@@ -48,7 +48,7 @@ googleAnalytics = "UA-167538017-1"
     name = "About"
     url = "/about"
     weight = 5
-
+    
 [params]
     since = 2018
     author = "J. Antonio Guzmán Q."               # Author's name
@@ -59,7 +59,7 @@ googleAnalytics = "UA-167538017-1"
 
     google_verification = ""
 
-    description = "" # site description
+    description = "Personal website" # site description
     keywords = "Antonio Guzmán" # site keywords
 
     license= 'Released under <a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
